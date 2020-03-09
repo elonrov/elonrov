@@ -2736,6 +2736,7 @@ input, select, textarea {
 
 .row .links {
 	margin: 0 auto;
+	padding: 30px 0 0 0;
 }
 
 .links {
@@ -2752,4 +2753,8 @@ input, select, textarea {
 	align-items: center;
 	text-decoration: none;
 	border: none;
+}
+
+.links a {
+	border-bottom: none;
 }
