@@ -2753,6 +2753,7 @@ input, select, textarea {
 	align-items: center;
 	text-decoration: none;
 	border: none;
+	text-align: center;
 }
 
 .links a {
