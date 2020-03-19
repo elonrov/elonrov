@@ -241,7 +241,9 @@ input, select, textarea {
 			}
 
 		}
-
+/* .about-container {
+	padding-top: 0px;
+} */
 /* Row */
 
 	.row {
@@ -2356,7 +2358,7 @@ input, select, textarea {
 		/* Header */
 
 			#header > .container {
-				padding: 10em 0 7em 0;
+				padding: 5em 0 7em 0;
 			}
 
 		/* Nav */
@@ -2758,4 +2760,8 @@ input, select, textarea {
 
 .links a {
 	border-bottom: none;
+}
+
+.about-container {
+	padding-top: 0px;
 }
