@@ -2287,7 +2287,7 @@ input, select, textarea {
 		/* Header */
 
 			#header > .container {
-				padding: 5em 0 5em 0;
+				padding: 9em 0 5em 0;
 			}
 
 			#header h1 {
@@ -2722,9 +2722,9 @@ input, select, textarea {
 	padding-bottom: 3em;
 }
 
-.container > .about {
+/* .container > .about {
 	padding-top: 2em;
-}
+} */
 
 .about {
 	width: 60%;
