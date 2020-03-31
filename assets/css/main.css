@@ -2766,3 +2766,11 @@ input, select, textarea {
 .about-container {
 	padding-top: 0px;
 }
+
+
+.skills-1, .skills-2, .skills-3 {
+	display: flex; 
+	flex-direction: row; 
+	justify-content: space-around;
+	align-items: center;
+}
