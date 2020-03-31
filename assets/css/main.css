@@ -2771,6 +2771,10 @@ input, select, textarea {
 .skills-1, .skills-2, .skills-3 {
 	display: flex; 
 	flex-direction: row; 
-	justify-content: space-between;
+	justify-content: space-around;
 	align-items: center;
 }
+
+.skills-1 img, .skills-2 img, .skills-3 img {
+	padding: 0 15px;
+} 
